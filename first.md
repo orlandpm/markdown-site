@@ -1,3 +1,3 @@
 [This link](http://example.net/)
 
-[That link](readme.md)
+[That link](README.md)
